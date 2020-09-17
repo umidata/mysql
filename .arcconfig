@@ -1,0 +1,7 @@
+{
+  "project_id" : "mysql.5.7",
+  "repository.callsign" : "MYSQL",
+  "load" : [ "arcanist/" ],
+  "arcanist_configuration" : "umidataMySQLArcanistConfiguration",
+  "git.default-relative-commit" : "HEAD^"
+}
